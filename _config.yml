@@ -1,0 +1,71 @@
+#
+###################################
+# Site wide configuration
+####################################
+#
+title: Sahista Gurung Art
+email: sahistagurung@gmail.com
+description: Portfolio of Sahista Gurung – Artist and Student.
+url: https://sahistagurung.github.io/sahistagurungart.github.io/
+keywords: ["art portfolio", "fine arts", "illustration", "Sahista Gurung", "student artist"]
+
+#
+###################################
+# Jekyll configuration
+####################################
+#
+timezone:          Europe/Paris
+markdown:          kramdown
+highlighter:       rouge
+excerpt_separator: <!--more-->
+permalink:         /articles/:year-:month/:title
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+#
+###################################
+# Site Owner configuration
+####################################
+#
+owner:
+  name: Sahista Gurung
+  avatar: sahistagurung.png # You will need to put a photo named this in your assets folder later
+  job: "A jekyll theme"
+  bio: "Exploring life through arts."
+  email:sahistagurung@gmail.com
+  disqus-shortname:
+  twitter: sahistagurung
+  facebook: sahistagurung
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
+  github: sahistagurung
+  gitlab: #username
+  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: sahistagurung
+  skype: #username
+  xing: #username
+  instagram: sahistagurung
+  lastfm: #username
+  tumblr: #username
+  pinterest: sahistagurung
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  youtube: #username
+  soundcloud: #username
+  weibo: #username
+  flickr: #username
+  500px: #username
+  codepen: #username
+  reddit: #username
+  telegram: #username
