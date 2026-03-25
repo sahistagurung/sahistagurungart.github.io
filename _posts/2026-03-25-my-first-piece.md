@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Title of My Artwork"
+date: 2026-03-25
+description: "A short description of the medium or inspiration."
+image: /img/my-artwork.jpg
+---
+
+This is where you can write a longer story about this piece of art. 
+
+![My Artwork](/img/circle.jpg)
