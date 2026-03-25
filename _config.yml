@@ -17,7 +17,7 @@ keywords: ["art portfolio", "fine arts", "illustration", "Sahista Gurung", "stud
 timezone: Europe/Paris
 markdown: kramdown
 highlighter: rouge
-excerpt_separator: permalink: /articles/:year-:month/:title
+excerpt_separator: permalink: "/articles/:year-:month/:title"
 
 kramdown:
   auto_ids: true
