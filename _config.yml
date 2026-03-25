@@ -6,7 +6,7 @@
 title: Sahista Gurung Art
 email: sahistagurung@gmail.com
 description: "Portfolio of Sahista Gurung – Artist and Student."
-url: https://sahistagurungart.github.io
+url: ttps://sahistagurung.github.io/sahistagurungart.github.io/
 keywords: ["art portfolio", "fine arts", "illustration", "Sahista Gurung", "student artist"]
 
 #
@@ -34,7 +34,7 @@ kramdown:
 #
 owner:
   name: Sahista Gurung
-  avatar: sahistagurung.png
+  avatar: /img/sahistagurung.jpg
   job: "Artist & Student"
   bio: "Exploring life through arts."
   email: sahistagurung@gmail.com
