@@ -5,7 +5,7 @@ excerpt: "A short description of the medium or inspiration."
 categories: [art]
 comments: true
 image:
-  feature: "{{ site.baseurl }}/img/circle.jpg"
+  feature: /img/circle.jpg
 ---
 
 ## Circle of Life
