@@ -35,7 +35,7 @@ kramdown:
 #
 owner:
   name: Sahista Gurung
-  avatar: "./img/sahistagurung.jpeg"
+  avatar: sahistagurung.jpeg
   job: "Artist & AI Student"
   bio: "Exploring life through art and tech."
   email: sahistagurung@gmail.com
