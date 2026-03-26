@@ -6,7 +6,8 @@
 title: Sahista Gurung Art
 email: sahistagurung@gmail.com
 description: "Portfolio of Sahista Gurung – Artist and Student."
-url: https://sahistagurung.github.io/sahistagurungart.github.io/
+url: "https://sahistagurungart.github.io"
+baseurl: ""
 keywords: ["art portfolio", "fine arts", "illustration", "Sahista Gurung", "student artist"]
 
 #
