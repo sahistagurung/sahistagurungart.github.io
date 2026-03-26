@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Title of My Artwork"
+title: "Circle of Life"
 date: 2026-03-25
 description: "A short description of the medium or inspiration."
 image: /img/my-artwork.jpg
