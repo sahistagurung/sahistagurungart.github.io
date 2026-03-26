@@ -8,4 +8,4 @@ image: /img/my-artwork.jpg
 
 This is where you can write a longer story about this piece of art. 
 
-![My Artwork](/img/circle.jpg)
+![My Artwork]({{ "/img/circle.jpg" | relative_url }})
