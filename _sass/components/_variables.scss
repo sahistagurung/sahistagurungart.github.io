@@ -44,63 +44,27 @@ $font-size-h6:               1rem !default;
 $base-line-height:            1.5;
 $base-space-unit:             1.5em;
 
-$hr-border-color:             var(--hr-border-color) !default;
+$hr-border-color:             rgba(0,0,0,.1) !default;
 $hr-border-width:             $border-width;
 
 //
 // Colors
 //
 
-:root {
-  --text-color: rgba(0, 0, 0, 0.87);
-  --background-color: #f5f5f5;
-  --post-background: #fff;
-  --nav-background: #f6f6f6;
-  --border-color: #ddd;
-  --primary: #42b983;
-  --secondary: #8d7edc;
-  --success: #65e892;
-  --danger: #f83e4b;
-  --warning: #F5A623;
-  --info: #09ABF6;
-  --hr-border-color: rgba(0,0,0,.1);
-  --table-border-color: #d0d0d0;
-  --table-striped-color: #f2f2f2;
-}
+$text-color:       rgba(0, 0, 0, 0.87) !default;
+$background-color: #f5f5f5;
 
-[data-theme="dark"] {
-  --text-color: rgba(255, 255, 255, 0.87);
-  --background-color: #1a1a1a;
-  --post-background: #2a2a2a;
-  --nav-background: #333333;
-  --border-color: #555;
-  --primary: #42b983;
-  --secondary: #8d7edc;
-  --success: #65e892;
-  --danger: #f83e4b;
-  --warning: #F5A623;
-  --info: #09ABF6;
-  --hr-border-color: rgba(255,255,255,.1);
-  --table-border-color: #404040;
-  --table-striped-color: #333333;
-}
-
-$text-color: var(--text-color);
-$background-color: var(--background-color);
-$post-background: var(--post-background);
-$nav-background: var(--nav-background);
-$border-color: var(--border-color);
-$white: #fff;
-$primary: var(--primary);
-$secondary: var(--secondary);
-$success: var(--success);
-$danger: var(--danger);
-$warning: var(--warning);
-$info: var(--info);
+$white:            #fff;
+$primary:          #42b983;
+$secondary:        #8d7edc;
+$success:          #65e892;
+$danger:           #f83e4b;
+$warning:          #F5A623;
+$info:             #09ABF6;
 
 // Tables
-$table-border-color: var(--table-border-color) !default;
-$table-striped-color: var(--table-striped-color) !default;
+$table-border-color: #d0d0d0 !default;
+$table-striped-color: #f2f2f2 !default;
 
 // Grid Variables
 $num-cols: 12 !default;
