@@ -3,6 +3,7 @@ layout: post
 title: "Circle of Life"
 excerpt: "An exploration of human connection and isolation within the infinite loops of existence."
 categories: [art]
+tags: [acrylic, conceptual-art, symbolism, human-connection, circular-composition, philosophy, contemporary-art, life-cycle]
 comments: true
 image:
   feature: circle.jpg

@@ -3,6 +3,7 @@ layout: post
 title: "Golden Peaks"
 excerpt: "Capturing the first light of dawn hitting the highest points of the world."
 categories: [art]
+tags: [acrylic, landscape, himalayas, nepal, mount-everest, sunrise, golden-hour, mountain-art]
 image:
   feature: eve.jpeg
 ---

@@ -3,6 +3,7 @@ layout: post
 title: "Boudhanath Stupa"
 excerpt: "A study of peace, wisdom, and the vibrant colors of faith."
 categories: [art]
+tags: [acrylic, nepal, kathmandu, boudhanath-stupa, buddhism, spiritual-art, architecture, vibrant-colors]
 image:
   feature: bouddha.jpeg
 ---

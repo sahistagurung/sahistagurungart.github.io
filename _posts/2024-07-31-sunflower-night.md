@@ -3,6 +3,7 @@ layout: post
 title: "Sunflower Night"
 excerpt: "A fusion of warmth and cosmic energy, blending the earth and the sky."
 categories: [art]
+tags: [acrylic, sunflowers, starry-night, van-gogh, impressionism, cosmic, nature, fusion-art]
 image:
   feature: mix.jpeg
 ---

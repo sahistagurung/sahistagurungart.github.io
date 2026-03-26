@@ -3,6 +3,7 @@ layout: post
 title: "Starry Night Reimagined"
 excerpt: "A personal take on celestial movement and the quiet energy of a sleeping town."
 categories: [art]
+tags: [acrylic, van-gogh, starry-night, celestial, impressionism, movement, night-sky, study]
 comments: true
 image:
   feature: v.jpeg

@@ -3,6 +3,7 @@ layout: post
 title: "Misty Forest"
 excerpt: "A study on depth, silence, and the hidden layers of nature."
 categories: [art]
+tags: [acrylic, landscape, atmospheric, minimalism, nature, forest, monochrome]
 image:
   feature: fog.jpeg
 ---

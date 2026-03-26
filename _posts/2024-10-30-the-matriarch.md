@@ -3,6 +3,7 @@ layout: post
 title: "The Matriarch"
 excerpt: "A detailed study of wisdom, age, and the intricate textures of nature."
 categories: [art]
+tags: [graphite, charcoal, realism, wildlife, texture-study, monochrome, african-elephant, nature]
 image:
   feature: ele.jfif
 ---
