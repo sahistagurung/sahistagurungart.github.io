@@ -1,6 +1,6 @@
 // Post listing
 .post-listing {
-  background-color: $white;
+  background-color: $post-background;
   position: absolute;
   top: 400px;
   z-index: 233;
@@ -100,7 +100,7 @@ a.read-more {
 #post h2 {
   margin: 2em 0 0.8em;
   padding-bottom: 0.7em;
-  border-bottom: 1px solid #ddd;
+  border-bottom: 1px solid $border-color;
 }
 #post h3 {
   margin: 1.75em 0 1.2em;
@@ -116,7 +116,7 @@ a.read-more {
 }
 
 .post-navigation {
-  background-color: #f6f6f6;
+  background-color: $nav-background;
   @include box-shadow;
 }
 .leonids-icon {
@@ -158,7 +158,7 @@ a.read-more {
 // Shares Buttons
 .share-buttons {
   padding-top: 1em;
-  border-top: 1px solid #ddd;
+  border-top: 1px solid $border-color;
   ul {
     margin: 0;
     padding: 0;
