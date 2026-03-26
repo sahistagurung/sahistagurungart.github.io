@@ -19,7 +19,7 @@ It’s meant to evoke a feeling of early morning stillness—that moment before 
 
 - **Medium:** Acrylic on Canvas
 - **Style:** Atmospheric Minimalism
-- **Year:** 2026
+- **Year:** 2022
 
 ---
 

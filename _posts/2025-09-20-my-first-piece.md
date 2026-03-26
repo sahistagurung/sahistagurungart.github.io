@@ -20,7 +20,7 @@ The three silhouetted figures are placed intentionally. Though they share the sa
 
 - Medium: Acrylic on Canvas
 - Inspiration: The interplay between individual consciousness and the  "universal hum" of life.
-- Year: 2026
+- Year: 2025
 
 ---
 

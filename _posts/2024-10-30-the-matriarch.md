@@ -19,7 +19,7 @@ By keeping the background pure black, the focus remains entirely on the form and
 
 - **Medium:** Graphite/Charcoal Study
 - **Subject:** African Elephant
-- **Year:** 2026
+- **Year:** 2024
 
 ---
 

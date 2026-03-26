@@ -19,7 +19,7 @@ The background is filled with warm, golden tones to mimic the glow of a sunset, 
 
 - **Medium:** Acrylic on Canvas
 - **Subject:** Boudhanath Stupa, Nepal
-- **Year:** 2026
+- **Year:** 2025
 
 ---
 

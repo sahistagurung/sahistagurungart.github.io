@@ -19,7 +19,7 @@ The addition of the small yellow tents and the prayer flags provides a sense of 
 
 - **Medium:** Acrylic on Canvas
 - **Subject:** Mountain Landscape
-- **Year:** 2026
+- **Year:** 2025
 
 ---
 

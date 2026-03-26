@@ -19,7 +19,7 @@ The sunflowers are painted with thick, energetic strokes to give them a sense of
 
 - **Medium:** Acrylic on Canvas
 - **Inspiration:** Vincent van Gogh's Sunflowers and Starry Night
-- **Year:** 2026
+- **Year:** 2024
 
 ---
 
