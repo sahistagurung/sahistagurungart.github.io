@@ -8,4 +8,4 @@ image: img/circle.jpg
 
 This is where you can write a longer story about this piece of art.
 
-![My Artwork](../img/circle.jpg)
+<img src="{{ site.baseurl }}/img/circle.jpg" alt="My Artwork">
