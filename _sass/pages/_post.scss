@@ -16,6 +16,7 @@
     overflow-y: scroll;
     position: initial;
     top: 0;
+    padding: 60px 10% 0; /* Adding 10% space on the sides for desktop */
   }
 }
 
@@ -150,9 +151,12 @@ a.read-more {
 .post-image-feature {
   margin-bottom: 40px;
   .feature-image {
-    width: 100%;
-    max-height: 500px;
-  }
+  width: auto;
+  max-width: 100%;   
+  max-height: 65vh;  /* Limits height on desktop so you don't have to scroll forever */
+  display: block;
+  margin: 0 auto;    /* Centers it */
+}
 }
 
 // Shares Buttons
