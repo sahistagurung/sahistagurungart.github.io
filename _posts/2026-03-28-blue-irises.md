@@ -5,7 +5,7 @@ excerpt: "An exploration of vibrant contrasts and the delicate strength of sprin
 categories: [art]
 tags: [acrylic, van-gogh, irises, floral-art, impressionism, still-life, vibrant-colors]
 image:
-  feature: flow.jpg
+  feature: flow.jpeg
 ---
 
 ## Azure Irises
